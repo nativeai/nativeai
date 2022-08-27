@@ -12,7 +12,6 @@
   <br/>
 </div>
 <div align="center">
-  <iframe src="https://giphy.com/embed/RNnEyDQSSJ6Zu0652M" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/growth-transition-increase-RNnEyDQSSJ6Zu0652M">via GIPHY</a></p>>
 </div>
 <!-- <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title=".NET Core" alt=".NET Core" width="40" height="40"/>&nbsp;
