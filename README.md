@@ -1,5 +1,4 @@
 <div id="header" align="center">
-  <iframe src="https://giphy.com/embed/RNnEyDQSSJ6Zu0652M" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/growth-transition-increase-RNnEyDQSSJ6Zu0652M">via GIPHY</a></p>
   <a href="https://www.linkedin.com/in/shandon-hicks-018371173/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -13,7 +12,7 @@
   <br/>
 </div>
 <div align="center">
-  <img src="https://media.giphy.com/media/X7NFveezX68Cc/giphy.gif" width="400" height="300"/>
+  <iframe src="https://giphy.com/embed/RNnEyDQSSJ6Zu0652M" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/growth-transition-increase-RNnEyDQSSJ6Zu0652M">via GIPHY</a></p>>
 </div>
 <!-- <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title=".NET Core" alt=".NET Core" width="40" height="40"/>&nbsp;
